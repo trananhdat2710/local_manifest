@@ -2,7 +2,7 @@
 <manifest>
  <!--Remote-->
  <remote name="anhdat2710" fetch="https://github.com/trananhdat2710" />
- <remote name="LineageOS" fetch="https://github.com/LineageOS" />
+ <remote name="Lineage" fetch="https://github.com/LineageOS" />
  
  <!-- Trees -->
  <project path="device/samsung/a52sxq" name="android_device_samsung_a52sxq" remote="anhdat2710" revision="lineage-22.2" />
@@ -12,6 +12,6 @@
  <project path="kernel/samsung/sm7325" name="android_kernel_samsung_sm7325" remote="anhdat2710" revision="lineage-22.2" />
 
  <!-- Hardware -->
- <project path="hardware/samsung" name="android_hardware_samsung" remote="LineageOS" revision="lineage-22.2" />
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="Lineage" revision="lineage-22.2" />
 
 </manifest>

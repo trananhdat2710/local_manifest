@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <!--Remote-->
- <remote name="anhdat2710" fetch="https://github.com/trananhdat2710" />
+ <remote name="anhdat2710" fetch="https://github.com/anhdat2710" />
  <remote name="Lineage" fetch="https://github.com/LineageOS" />
  
  <!-- Trees -->

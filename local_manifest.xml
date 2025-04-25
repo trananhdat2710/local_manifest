@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <!--Remote-->
- <remote name="anhdat2710" fetch="https://github.com/anhdat2710" />
+ <remote name="anhdat2710" fetch="https://github.com/trananhdat2710" />
  <remote name="Lineage" fetch="https://github.com/LineageOS" />
  
  <!-- Trees -->
- <project path="device/samsung/a52sxq" name="android_device_samsung_a52sxq" remote="anhdat2710" revision="lineage-22.2" />
+ <project path="device/samsung/a52sxq" name="android_device_samsung_a52sxq" remote="anhdat2710" revision="rising15.2" />
  <project path="device/samsung/sm7325-common" name="android_device_samsung_sm7325-common" remote="anhdat2710" revision="lineage-22.2" />
  <project path="vendor/samsung/a52sxq" name="android_vendor_samsung_a52sxq" remote="anhdat2710" revision="lineage-22.2" />
  <project path="vendor/samsung/sm7325-common" name="android_vendor_samsung_sm7325-common" remote="anhdat2710" revision="lineage-22.2" />
